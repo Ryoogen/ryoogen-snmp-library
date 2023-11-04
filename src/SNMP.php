@@ -6,6 +6,7 @@
  * @author    Ryoogen Media <https://github.com/Ryoogen>
  * @copyright 2023 Ryoogen Media
  * @link https://github.com/Ryoogen
+ * @license  https://github.com/nelisys/snmp/blob/master/LICENSE
  */
 
 class SNMP
