@@ -1,4 +1,4 @@
-# 🛜 snmp
+# 🛜 PHP SNMP
 php class for snmp 
 
 😍 Requirements
