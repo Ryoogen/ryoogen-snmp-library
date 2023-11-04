@@ -1,0 +1,22 @@
+{
+    "name": "ryoogen-media/snmp",
+    "description": "\"php class for snmp\"",
+    "type": "library",
+    "require-dev": {
+        "no": "no",
+        "sebastian/object-reflector": "3.0.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "RyoogenMedia\\Snmp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "M-BintangR",
+            "email": "ryoogencomunity@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
