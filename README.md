@@ -1,7 +1,7 @@
-# snmp 🛜
+# 🛜 snmp
 php class for snmp 
 
-Requirements 🛠️
+✅ Requirements
 ------------
 
 Requires: net-snmp-utils
@@ -19,7 +19,7 @@ Installation with Composer
 $ composer require ryoogen-media/snmp
 ```
 
-Usage
+🦄 Usage
 -----
 
 Example php file.
@@ -34,7 +34,7 @@ $snmp = new SNMP('127.0.0.1', 'public');
 print_r($snmp->get('.1.3.6.1.2.1.1.1.0'));
 ```
 
-Test run php file.
+✅ Test run php file.
 
 ```shell
 $ php test-snmp.php
