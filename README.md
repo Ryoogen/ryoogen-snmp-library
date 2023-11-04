@@ -1,7 +1,7 @@
 # 🛜 snmp
 php class for snmp 
 
-✅ Requirements
+😍 Requirements
 ------------
 
 Requires: net-snmp-utils
@@ -12,7 +12,7 @@ For RedHat/CentOS 6, 7
 [root@centos ~]# yum install net-snmp-utils
 ```
 
-Installation with Composer
+🛠️ Installation with Composer
 --------------------------
 
 ```shell
@@ -22,7 +22,7 @@ $ composer require ryoogen-media/snmp
 🦄 Usage
 -----
 
-Example php file.
+✅ Example php file.
 
 ```php
 // test-snmp.php
